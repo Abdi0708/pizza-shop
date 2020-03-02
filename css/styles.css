@@ -1,0 +1,39 @@
+.new-pizza-size {
+    width: 50%;
+  }
+  
+  #show-pizza-results {
+    display: none;
+  }
+  
+  li {
+    font-size: 30px;
+  }
+  body{
+      background-image: url(../images/yasir2.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: normal;
+  }
+  .section1{
+      background-image:url(../images/yasir1.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-weight: normal;
+      text-align: center;
+  } 
+  .raw{
+    display: flex;
+  }
+  h3{
+    text-align: center;
+    color: white;
+  }
+  h1{
+    color: white;
+  }
+  h4{
+    color: white;
+  }
